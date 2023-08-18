@@ -1,0 +1,6 @@
+input[type="text"] {
+  background-color: transparent;
+}
+input::placeholder {
+  color: white;
+}
