@@ -1,0 +1,18 @@
+.select {
+  border: 1px solid white;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  line-height: 1.25rem;
+}
+path {
+  fill: white;
+  display: inline;
+}
+.form-select {
+  background-color: transparent;
+  color: white;
+  border: none;
+  display: inline;
+}
