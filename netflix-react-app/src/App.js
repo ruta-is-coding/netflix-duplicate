@@ -6,6 +6,7 @@ import Kids from "./components/LowerSection/kids.png";
 import Header from "./components/header/Header";
 import Section1 from "./components/section1/Section1";
 import LowerSection from "./components/LowerSection/LowerSection";
+import FAQ from "./components/FAQ/FAQ";
 
 function App() {
   return (
@@ -40,6 +41,7 @@ function App() {
           flexDirection: "row-reverse",
         }}
       />
+      <FAQ />
     </>
   );
 }

@@ -9,9 +9,30 @@
   background-size: cover;
   border-bottom: 10px solid rgb(111, 111, 111);
 }
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 900;
+}
 h2 {
   color: white;
   text-align: center;
   font-size: 3rem;
   font-weight: 900;
+}
+.container {
+  max-width: 65rem;
+}
+.blackSection {
+  background-color: rgb(0, 0, 0);
+  border-bottom: 10px solid rgb(111, 111, 111);
+}
+.btn:hover {
+  background-color: rgb(142, 12, 18);
+}
+h3 {
+  color: white;
+  text-align: center;
+  font-size: 1.25rem;
 }
