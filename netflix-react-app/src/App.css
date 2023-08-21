@@ -7,8 +7,9 @@
   background-image: url(background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  border-bottom: 10px solid rgb(111, 111, 111);
 }
-h1 {
+h2 {
   color: white;
   text-align: center;
   font-size: 3rem;

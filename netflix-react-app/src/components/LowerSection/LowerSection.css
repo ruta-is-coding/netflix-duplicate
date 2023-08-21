@@ -1,0 +1,12 @@
+.lowerSection {
+  background-color: rgb(0, 0, 0);
+  border-bottom: 10px solid rgb(111, 111, 111);
+}
+.lowerSection h2 {
+  font-size: 3rem;
+  text-align: left;
+}
+.lowerSection p {
+  color: white;
+  font-size: 1.5rem;
+}
