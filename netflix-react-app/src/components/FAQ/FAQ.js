@@ -1,4 +1,4 @@
-import Card from "../Card/Card.js";
+import Card from "../card/Card.js";
 import InputGroup from "../InputGroup/InputGroup.js";
 
 const FAQ = () => {

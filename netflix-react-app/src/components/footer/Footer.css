@@ -1,0 +1,19 @@
+footer {
+  background-color: rgb(0, 0, 0);
+}
+footer a {
+  color: white;
+}
+footer .row {
+  margin-bottom: 2rem;
+}
+footer .row a {
+  display: block;
+  margin-top: 0.5rem;
+}
+footer p {
+  color: white;
+  margin-top: 2rem;
+  margin-bottom: 0;
+  padding-bottom: 3rem;
+}

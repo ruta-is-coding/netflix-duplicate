@@ -7,6 +7,7 @@ import Header from "./components/header/Header";
 import Section1 from "./components/section1/Section1";
 import LowerSection from "./components/LowerSection/LowerSection";
 import FAQ from "./components/FAQ/FAQ";
+import Footer from "./components/footer/Footer";
 
 function App() {
   return (
@@ -42,6 +43,7 @@ function App() {
         }}
       />
       <FAQ />
+      <Footer />
     </>
   );
 }
