@@ -10,7 +10,15 @@ const Header = () => {
         <div className="buttons d-flex gap-4">
           <Select defaultValue="selected" />
           <div className="button">
-            <Button title="Sign In" className="d-inline" />
+            <Button
+              title="Sign In"
+              className="d-inline"
+              style={{
+                backgroundColor: "red",
+                color: "white",
+                fontSize: "18px",
+              }}
+            />
           </div>
         </div>
       </div>
