@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/github.io/netflix-duplicate/static/css/main.82b1b7f9.css",
+    "main.js": "/github.io/netflix-duplicate/static/js/main.3c1751f0.js",
+    "static/media/kids.png": "/github.io/netflix-duplicate/static/media/kids.6fd4253559d520f03d4d.png",
+    "static/media/background.jpg": "/github.io/netflix-duplicate/static/media/background.46a308474783a885e821.jpg",
+    "static/media/device-pile.png": "/github.io/netflix-duplicate/static/media/device-pile.8e6539e8bfc6937a0648.png",
+    "static/media/mobile.jpg": "/github.io/netflix-duplicate/static/media/mobile.063578d5b6d5ab4155ec.jpg",
+    "static/media/tv.png": "/github.io/netflix-duplicate/static/media/tv.0049bc70babc1f94cf88.png",
+    "index.html": "/github.io/netflix-duplicate/index.html",
+    "main.82b1b7f9.css.map": "/github.io/netflix-duplicate/static/css/main.82b1b7f9.css.map",
+    "main.3c1751f0.js.map": "/github.io/netflix-duplicate/static/js/main.3c1751f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82b1b7f9.css",
+    "static/js/main.3c1751f0.js"
+  ]
+}
